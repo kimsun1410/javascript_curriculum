@@ -16,7 +16,7 @@
  4.  텍스트 에디터, IDE 같은 것을 설치할 필요가 없고 인터넷 브라우저만 있으면 됩니다.
  5.  결과를 바로 인터넷 브라우저 화면으로 볼 수 있어 편합니다.
 
- * [변수(Variable)](#javascript-variable) 
+ * [변수(Variable)](https://github.com/kimsun1410/javascript_curriculum/blob/main/javascript-st/js-step1변수.md) 
  * [객체(Object)와 배열(Array)](#jacascript-object-array)
  * [함수(Function))](#jacascript-function)
  * [연산자(Operator))](#jacascript-operator)
